@@ -8,4 +8,5 @@ oshi+hutool 获取计算机硬件的信息，包括cpu的使用率，内存使�
 变量值：D:\Application\graphviz-2.38\release\bin\dot.exe 
 
 4,开源对象存储，类似aws s3，MinIO  https://gitee.com/mirrors/minio?utm_source=alading&utm_campaign=repo，在项目中用来做分布式文件服务器
-5,hutool 工具包 https://www.hutool.cn/docs/#/文档说明 基本上java开发过程中会用到的工具类在这个里面都能够得到。
+5, hutool 工具包 https://www.hutool.cn/docs/#/文档说明 基本上java开发过程中会用到的工具类在这个里面都能够得到。
+6，mapstruct dto po对象之前的相互转化
