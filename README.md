@@ -15,3 +15,4 @@ oshi+hutool 获取计算机硬件的信息，包括cpu的使用率，内存使�
 
 7，对性能要求比较高的队列可以使用disruptor
 8, Knife4j 和swagger整合，提供了页面话的api管理工具，可以和spring boot很好的整合。 https://doc.xiaominfo.com/knife4j/documentation/get_start.html
+9，可以内嵌到项本身，无需额外的处理的k-v数据库 JE https://blog.csdn.net/liuzhixiong_521/article/details/78839182
