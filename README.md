@@ -14,10 +14,17 @@ oshi+hutool 获取计算机硬件的信息，包括cpu的使用率，内存使�
 6，mapstruct dto po对象之前的相互转化
 
 7，对性能要求比较高的队列可以使用disruptor
+
 8, Knife4j 和swagger整合，提供了页面话的api管理工具，可以和spring boot很好的整合。 https://doc.xiaominfo.com/knife4j/documentation/get_start.html
+
 9，可以内嵌到项本身，无需额外的处理的k-v数据库 JE https://blog.csdn.net/liuzhixiong_521/article/details/78839182
+
 10， 在使用spring boot的时候在一些场景中我们需要在容器初始化的时候做一些事情，这个我们实现的方法有，1，增加ApplicationRunner，CommandLineRunner对象 2，监听ApplicationReadyEvent的事件
+
 11,在一些邮件，html获取其他的文件中，要想起使用模板 freemarker
+
+12，jdk1.8以后提供了CompletableFuture用于异步编程的方法，使用起来确实非常的方便 主要的用法有 supplyAsync/runAsync用于构造，thenApplyAsync用于对结构进行转化
+thenAccept 用于消费，thenCombine用于对多个结果进行整合。
 
 
 
