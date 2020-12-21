@@ -26,5 +26,7 @@ oshi+hutool 获取计算机硬件的信息，包括cpu的使用率，内存使�
 12，jdk1.8以后提供了CompletableFuture用于异步编程的方法，使用起来确实非常的方便 主要的用法有 supplyAsync/runAsync用于构造，thenApplyAsync用于对结构进行转化
 thenAccept 用于消费，thenCombine用于对多个结果进行整合。
 
+13，在实际协同开发的过程中使用ecolinker管理api，在ecolinker中可以管理，和mockapi接口。
+
 
 
