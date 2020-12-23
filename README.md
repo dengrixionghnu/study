@@ -28,5 +28,7 @@ thenAccept 用于消费，thenCombine用于对多个结果进行整合。
 
 13，在实际协同开发的过程中使用ecolinker管理api，在ecolinker中可以管理，和mockapi接口。
 
+14，在这个地址可以测试是否支持IPV6 http://test-ipv6.com/
+
 
 
