@@ -33,6 +33,7 @@ thenAccept 用于消费，thenCombine用于对多个结果进行整合。
 15,在pox的导入和解析的过程中，对大型的文件我们往往内存溢出，我们可以使用SXSSFWorkbook读写
 16，尝试使用gitbook来写笔记和写书，这是一个非常好的方式 https://www.jianshu.com/p/0388d8bb49a7 使用的体验确实非常好
 17，现在的一些项目中我们也会使用gradle来构建，这里有一个入门级别的例子 https://www.cnblogs.com/davenkin/p/gradle-spring-boot.html?utm_source=itdadao&utm_medium=referral
+18， 一些场景中我们可以使用keepalive来实现高可用
 
 
 
