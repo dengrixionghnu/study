@@ -34,6 +34,7 @@ thenAccept 用于消费，thenCombine用于对多个结果进行整合。
 16，尝试使用gitbook来写笔记和写书，这是一个非常好的方式 https://www.jianshu.com/p/0388d8bb49a7 使用的体验确实非常好
 17，现在的一些项目中我们也会使用gradle来构建，这里有一个入门级别的例子 https://www.cnblogs.com/davenkin/p/gradle-spring-boot.html?utm_source=itdadao&utm_medium=referral
 18， 一些场景中我们可以使用keepalive来实现高可用
+19， 国内我们经常要使用到代理，我们可以使用swithcOmae的浏览器进行代理。https://www.cnblogs.com/nicole-zhang/p/11955881.html
 
 
 
