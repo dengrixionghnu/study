@@ -1,0 +1,5 @@
+https://www.cnblogs.com/shindo/p/6117647.html
+
+keytool -genkey -alias uat -keypass password -keyalg RSA -keysize 1024 -validity 365 -keystore E:/UAT/KEY/uat.keystore -storepass password
+keytool -export -alias uat -keystore E:/UAT/KEY/uat.keystore -storepass password -rfc -file E:/UAT/KEY/uat.cer
+rsa -in E:\UAT\key\uat.key -out E:\UAT\key\uat.key.unsecure
