@@ -35,6 +35,7 @@ thenAccept 用于消费，thenCombine用于对多个结果进行整合。
 17，现在的一些项目中我们也会使用gradle来构建，这里有一个入门级别的例子 https://www.cnblogs.com/davenkin/p/gradle-spring-boot.html?utm_source=itdadao&utm_medium=referral
 18， 一些场景中我们可以使用keepalive来实现高可用
 19， 国内我们经常要使用到代理，我们可以使用swithcOmae的浏览器进行代理。https://www.cnblogs.com/nicole-zhang/p/11955881.html
+20 JCTools jdk并发工具的增强工具类 https://www.jianshu.com/p/14dcfd84704f
 
 
 
