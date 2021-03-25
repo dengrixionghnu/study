@@ -31,11 +31,25 @@ thenAccept 用于消费，thenCombine用于对多个结果进行整合。
 14，在这个地址可以测试是否支持IPV6 http://test-ipv6.com/
 
 15,在pox的导入和解析的过程中，对大型的文件我们往往内存溢出，我们可以使用SXSSFWorkbook读写
+
 16，尝试使用gitbook来写笔记和写书，这是一个非常好的方式 https://www.jianshu.com/p/0388d8bb49a7 使用的体验确实非常好
+
 17，现在的一些项目中我们也会使用gradle来构建，这里有一个入门级别的例子 https://www.cnblogs.com/davenkin/p/gradle-spring-boot.html?utm_source=itdadao&utm_medium=referral
+
 18， 一些场景中我们可以使用keepalive来实现高可用
+
 19， 国内我们经常要使用到代理，我们可以使用swithcOmae的浏览器进行代理。https://www.cnblogs.com/nicole-zhang/p/11955881.html
+
 20 JCTools jdk并发工具的增强工具类 https://www.jianshu.com/p/14dcfd84704f
+
+21 idea比较好的插件推荐
+  - AiXcoode 代码智能提示
+  - GrepConsole 自定义console输出日志颜色提示
+  - Maven Helper 查找和排除冲突依赖项
+  - Lombok Lombok支持
+  - MybatisX 帮助开发Mybatis
+  - Rainbow Brackets 括号符号颜色提示
+  - SonarLint 本地Sonar代码质量检查
 
 
 
